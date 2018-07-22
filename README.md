@@ -9,15 +9,19 @@
 
   ### 《邪不压正》评论地区分布
   https://erikfather.github.io/movie_comment_analysis/xie_zheng.html
+  ![image](https://github.com/Erikfather/movie_comment_analysis/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/1.jpg)
   ### 《邪不压正》统计图
   https://erikfather.github.io/movie_comment_analysis/xie_zheng_pie.html
+  ![image](https://github.com/Erikfather/movie_comment_analysis/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/2.jpg)
   ### 《邪不压正》词云
   ![image](https://github.com/Erikfather/movie_comment_analysis/blob/master/xie_zheng_ciyun.jpg)
 
 
   ### 《我不是药神》评论地区分布
   https://erikfather.github.io/movie_comment_analysis/yaoshen.html
+  ![image](https://github.com/Erikfather/movie_comment_analysis/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/3.jpg)
   ### 《我不是药神》统计图
   https://erikfather.github.io/movie_comment_analysis/yaoshen_pie.html
+  ![image](https://github.com/Erikfather/movie_comment_analysis/blob/master/%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6/4.jpg)
   ### 《我不是药神》词云
   ![image](https://github.com/Erikfather/movie_comment_analysis/blob/master/yaoshen_ciyun.jpg)
